@@ -1,0 +1,6 @@
+openai-whisper
+ffmpeg
+django
+whitenoise
+python-dotenv
+psycopg2
